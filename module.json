@@ -67,6 +67,10 @@
       "entity": "Item"
     }
   ],
-
-  "url": ""
+  "socket": false,
+  "protected": false,
+  "coreTranslation": false,
+  "manifest": "https://github.com/Padhiver/Aventure-en-Terre-du-Milieu/releases/download/0.1/module.json",
+  "download": "https://github.com/Padhiver/Aventure-en-Terre-du-Milieu/releases/download/0.1/module.zip",
+  "url": "https://github.com/Padhiver/Aventure-en-Terre-du-Milieu"
 }
