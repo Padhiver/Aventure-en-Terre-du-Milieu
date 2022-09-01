@@ -21,56 +21,64 @@
       "label": "Capacités des classes",
       "path": "packs/Capacités-des-classes.db",
       "module": "LOTR-Compendium",
-      "entity": "Item"
+      "type": "Item",
+	  "system": "dnd5e"
     },
 	{
       "name": "Classes",
       "label": "Classes",
       "path": "packs/Classes.db",
       "module": "LOTR-Compendium",
-      "entity": "Item"
+      "type": "Item",
+	  "system": "dnd5e"
     },
 	{
       "name": "Items",
       "label": "Items",
       "path": "packs/Items.db",
       "module": "LOTR-Compendium",
-      "entity": "Item"
+      "type": "Item",
+	  "system": "dnd5e"
     },
 	{
       "name": "Articles",
       "label": "Articles",
       "path": "packs/Articles.db",
       "module": "LOTR-Compendium",
-      "entity": "JournalEntry"
+      "type": "JournalEntry",
+	  "system": "dnd5e"
     },
 	{
       "name": "Cultures",
       "label": "Cultures",
       "path": "packs/Cultures.db",
       "module": "LOTR-Compendium",
-      "entity": "Item"
+      "type": "Item",
+	  "system": "dnd5e"
     },
 	{
       "name": "Vertus",
       "label": "Vertus",
       "path": "packs/Vertus.db",
       "module": "LOTR-Compendium",
-      "entity": "Item"
+      "type": "Item",
+	  "system": "dnd5e"
     },
 	{
       "name": "Table-aleatoire",
       "label": "Table aléatoire",
       "path": "packs/Table-aléatoire.db",
       "module": "LOTR-Compendium",
-      "entity": "RollTable"
+      "type": "RollTable",
+	  "system": "dnd5e"
     },
 	{
       "name": "Historiques",
       "label": "Historiques",
       "path": "packs/Historiques.db",
       "module": "LOTR-Compendium",
-      "entity": "Item"
+      "type": "Item",
+	  "system": "dnd5e"
     }
   ],
   "socket": false,
